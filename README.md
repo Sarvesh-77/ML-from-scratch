@@ -1,5 +1,5 @@
 # ML-from-scratch
-Implementing ML algorithms from scratch in Python using numpy arrays and matplotlib for visualization and no sophisticated libraries.
+Implementing ML algorithms from scratch in Python using numpy arrays and matplotlib for visualization without the use of sophisticated libraries.
 
 Simulated sampling distribution  
 Implemented gradient descent algorithm  
