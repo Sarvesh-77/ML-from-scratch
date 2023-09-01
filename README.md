@@ -7,4 +7,4 @@ Performed Linear Regression, Logistic Regression and Expectation Maximization al
 
 A basic project mainly for understanding the math and working of machine learning models in depth.
 
-The report is named 'Bayesian_methods_of_ML'.
+The report is named 'Bayesian_methods_of_ML.pdf'.
