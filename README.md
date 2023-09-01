@@ -6,3 +6,5 @@ Implemented gradient descent algorithm
 Performed Linear Regression, Logistic Regression and Expectation Maximization algorithm.
 
 A basic project mainly for understanding the math and working of machine learning models in depth.
+
+The report is named Bayesian methods of machine learning.
