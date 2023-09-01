@@ -3,7 +3,7 @@ Implementing ML algorithms from scratch in Python using numpy arrays and matplot
 
 Simulated sampling distribution.  
 Executed the gradient descent algorithm.  
-Performed Linear Regression, Logistic Regression and Expectation Maximization algorithm.
+Performed Linear Regression, Logistic Regression and the Expectation Maximization Algorithm.
 
 A basic project mainly for understanding the math and working of machine learning models in depth.
 
